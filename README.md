@@ -1,2 +1,1 @@
-# hive-
-个人的hive总结
+hive总结
